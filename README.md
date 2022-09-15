@@ -44,7 +44,7 @@
 
 # Project Description
 
-The IBM Quantum Spring Challenge provided an opportunity for interested parties to learn more about quantum computing and quantum chemistry simulations. This repository contains the solutions to the challenges and a dedicated [supplementary.ipynb](supplementary.ipynb) material with the step-by-step derivations of the quantum circuits provided as solutions to the first challenge. In addition, useful linear algebra identities will be verified using matrix representation, index notation, NumPy, SymPy and Qiskit SDK. If there is a blunder, do not hesitate to open an issue in the [issue tracker](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/issues).
+The IBM Quantum Spring Challenge provided an opportunity for interested parties to learn more about quantum computing and quantum chemistry simulations. This repository presents the solutions to the challenge and a dedicated [supplementary.ipynb](supplementary.ipynb) material with step-by-step derivations of the quantum circuits provided as solutions to the first challenge. In addition, useful linear algebra identities were verified using matrix representation, index notation, NumPy, SymPy and Qiskit SDK. If there is a blunder, do not hesitate to open an issue in the [issue tracker](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/issues).
   
   
 # Table of Contents
