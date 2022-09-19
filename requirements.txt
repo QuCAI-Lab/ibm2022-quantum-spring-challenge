@@ -4,6 +4,8 @@
 
 # PACKAGES
 numpy==1.22.4
+sympy==1.7.1
+scipy==1.7.3
 matplotlib==3.5.1
 watermark==2.3.0 # IPython magic extension for versioning control between Colab notebooks.
 pylatexenc==2.10 # The 'pylatexenc' library is required to use 'MatplotlibDrawer'.

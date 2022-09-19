@@ -12,6 +12,7 @@
 <!-- Title: -->
 <div align="center">
   <h1> <a href="https://challenges.quantum-computing.ibm.com/spring-2022"> IBM Quantum Spring Challenge 2022 </a></h1>
+  <h2> Solutions to the IBM Quantum Spring Challenge 2022
 </div>
 <br>
 
@@ -28,8 +29,10 @@
 # Dependencies
 <code>
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://www.python.org/static/img/python-logo.png"></a>
-<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://numpy.org/images/logo.svg"></a>
 <a href="https://matplotlib.org" target="_blank" rel="noopener noreferrer"><img height="27" src="https://matplotlib.org/_static/images/logo2.svg"></a>
+<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://numpy.org/images/logo.svg"></a>
+<a href="https://www.sympy.org/en/index.html" target="_blank" rel="noopener noreferrer"><img height="27" src="https://www.sympy.org/static/images/logo.png"></a>
+<a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://scipy.org/images/logo.svg"></a>
 <a href="https://pyscf.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://pyscf.org/_images/pyscf-logo.png"></a>
 <a href="https://qiskit.org/" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -44,7 +47,7 @@
 
 # Project Description
 
-The IBM Quantum Spring Challenge provided an opportunity for interested parties to learn more about quantum computing and quantum chemistry simulations. This repository presents the solutions to the challenge and a dedicated [supplementary.ipynb](supplementary.ipynb) material with step-by-step derivations of the quantum circuits provided as solutions to the first challenge. In addition, useful linear algebra identities were verified using matrix representation, index notation, NumPy, SymPy and Qiskit SDK. If there is a blunder, do not hesitate to open an issue in the [issue tracker](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/issues).
+The IBM Quantum Spring Challenge provided an opportunity for interested parties to learn more about quantum computing and quantum chemistry simulations. This repository presents the solutions to the challenge and a dedicated [supplementary.ipynb](supplementary.ipynb) material with a skill-reaffirming background covering the step-by-step derivations of the quantum circuits provided as solutions to the first challenge. In addition, useful linear algebra identities were verified using matrix representation, index notation, NumPy, SymPy and Qiskit SDK. If there is a blunder, do not hesitate to open an issue in the [issue tracker](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/issues).
   
   
 # Table of Contents
@@ -99,7 +102,7 @@ python3 -m pip install -U qiskit-nature[pyscf]
   
 <br>
   
-Alternatively, one can install the required dependencies via the `requirements.txt` file:
+Alternatively, one can install the required dependencies via the [requirements.txt](requirements.txt) file:
 ```bash
 conda create -yn quantumspring python==3.9.11 && conda activate quantumspring
 ```
