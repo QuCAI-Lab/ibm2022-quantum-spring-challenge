@@ -1,7 +1,6 @@
 <!-- Badges: -->
 [![License](https://img.shields.io/github/license/QuCAI-Lab/ibm2022-quantum-spring-challenge.svg?logo=CreativeCommons&style=flat-square)](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/blob/dev/LICENSE.md)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square)](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/graphs/commit-activity)
 [![Release](https://img.shields.io/github/release/QuCAI-Lab/ibm2022-quantum-spring-challenge.svg)](https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge/releases)
 
 <!-- Logo: -->
@@ -12,18 +11,9 @@
 <!-- Title: -->
 <div align="center">
   <h1> <a href="https://challenges.quantum-computing.ibm.com/spring-2022"> IBM Quantum Spring Challenge 2022 </a></h1>
-  <h2> Solutions to the IBM Quantum Spring Challenge 2022
+  <h2> Solutions
 </div>
 <br>
-
-<!-- Author: -->
-<div align="center">
-  <b>Developer: <a target="_blank" href="https://github.com/camponogaraviera">¹Lucas Camponogara Viera</a></b>
-<br>
-<b><a target="_blank" href="https://en.ntnu.edu.tw/">¹National Taiwan Normal University - NTNU, Taipei, Taiwan</a></b>.
-<br>
-</div>
-
 
 <!-- Dependencies: -->
 # Dependencies
@@ -119,10 +109,6 @@ python3 -m pip install --user --upgrade pip && python3 -m pip install -r require
   
 # License
 
-This work is licensed under a [Creative Commons Zero v1.0 Universal](LICENSE) license.
+This work is licensed under a [Creative Commons Zero v1.0 Universal](LICENSE.md) license.
 
 <hr>
-
-Created and maintained by [@camponogaraviera][1].
-
-[1]: https://github.com/camponogaraviera
